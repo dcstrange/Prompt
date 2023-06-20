@@ -2,6 +2,7 @@ Analyze and report this paper based on the template below.
 In the output, please mark the page number of the relevant source.
 [doc_id: https://askyourpdf.com/upload]
 
+0. Paper meta info. (includes title, author, year, publication)
 1. Explain Abstract of this paper
 2. What are the contributions of this paper
 3. Explain the practical implications of this paper
@@ -17,4 +18,4 @@ In the output, please mark the page number of the relevant source.
 13. Future works suggested in this paper
 14. Find Related Papers
 
-In addition, please give the meaning of each method mentioned in the above "6.Method used in this article" and the working principle of the method itself.
+In addition, please give the meaning of each method mentioned in the above "8. Method used in this article" and the working principle of the method itself.
