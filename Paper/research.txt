@@ -1,0 +1,20 @@
+Analyze and report this paper based on the template below. 
+In the output, please mark the page number of the relevant source.
+[doc_id: https://askyourpdf.com/upload]
+
+1. Explain Abstract of this paper
+2. What are the contributions of this paper
+3. Explain the practical implications of this paper
+4. Summarise introduction of this paper
+5. What is the problems observed in this research and what is the motivation. 
+6. Challenges in this paper
+7. Literature survey of this paper
+8. Method used in this article. Please note here that the specific working principle of the method needs to be given additionally, and the method should be described in as much detail as possible, so that I can have a general impression of the method in the paper only from your output results.
+9. What data has been used in this paper
+10. Results of the paper
+11. Conclusions from the paper
+12. Limitations of this paper
+13. Future works suggested in this paper
+14. Find Related Papers
+
+In addition, please give the meaning of each method mentioned in the above "6.Method used in this article" and the working principle of the method itself.
